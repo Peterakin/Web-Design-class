@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(233, 171, 127);
+}
+
+#nav{
+    background-color: rgb(238, 147, 113);
+}
+
+#nav a{
+    color:white;
+    text-decoration: none;
+}
+
+#nav a:hover{
+    color: rgb(187, 187, 170);
+}
+
+#colors{
+    background-color: rgb(53, 28, 28);
+    color: white;
+    text-align: center;
+    height: 280px;
+}
+
+#red:hover{
+    background-color: red;
+}
+#green:hover{
+    background-color: green;
+}
+#yellow:hover{
+    background-color: yellow;
+}
+#brown:hover{
+    background-color: brown;
+}
+#purple:hover{
+    background-color: purple;
+}
+#blue:hover{
+    background-color: blue;
+}
